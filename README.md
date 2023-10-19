@@ -2,7 +2,7 @@
 
 Conecte-se comigo: 
 
-<a href="https://www.linkedin.com/in/daniel-castro-421b6b70"><img src="linkedin.png" alt="" style="max-width:50px"></a>
+<a href="https://www.linkedin.com/in/daniel-castro-421b6b70"><img src="linkedin.png" alt="" style="max-width:50px;"></a>
 
  
 
