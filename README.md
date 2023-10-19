@@ -1,2 +1,14 @@
-.\README.md
-        1 arquivo(s) copiado(s).
+# Hello, welcome to my profile.
+
+Conecte-se comigo: 
+
+<a href="https://www.linkedin.com/in/daniel-castro-421b6b70"><img src="linkedin.png" alt="" style="max-width:50px"></a>
+
+ 
+
+# Aluno Digital College. 😉
+
+# Estudante de Programação em processo contínuo de aprendizagem. 😢
+
+
+
